@@ -1,4 +1,4 @@
-# PyCitySchools Analysis
+# Schools Analysis
 There are a number of observable trends based on the data set
 1. The schools with the highest math and reading scores and pass rates are all charter schools.
 2. The worse performing schools (lowest passing rates) are all district schools with at least 2,900 students.
