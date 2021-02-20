@@ -1,5 +1,7 @@
-# PyCitySchools Analysis
-There are a number of observable trends based on the data set
+# Pandas School District Analysis
+
+## Key Findings:
+There are a number of observable trends based on the data set:
 1. The schools with the highest math and reading scores and pass rates are all charter schools.
 2. The worse performing schools (lowest passing rates) are all district schools with at least 2,900 students.
 3. The math and reading scores stay pretty consistent by grade for each school.
